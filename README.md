@@ -1,5 +1,7 @@
 <img src="https://resi.ze-robot.com/dl/ma/made-a-minimalistic-apple-developer-wallpaper.-thought-i-would-share.-1920%C3%971080.jpg" />
-### Hi there 👋
+
+ <b>Hi there 👋</b>
+ <p>🔭 I’m currently working on personal project called smothCSS </p>
 
 <!--
 **amarleku/amarleku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
