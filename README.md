@@ -1,4 +1,4 @@
-<img src="https://resi.ze-robot.com/dl/ma/made-a-minimalistic-apple-developer-wallpaper.-thought-i-would-share.-1920%C3%971080.jpg" />
+<img src="https://birchtree.nyc3.digitaloceanspaces.com/images/wwdc18/dev-dots.png" />
 
  <b>Hi there 👋</b>
  <p>🔭 I’m currently working on personal project called smothCSS </p>
