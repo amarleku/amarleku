@@ -1,4 +1,4 @@
-<img src="https://birchtree.nyc3.digitaloceanspaces.com/images/wwdc18/dev-dots.png" />
+<img src="https://images4.alphacoders.com/587/thumb-1920-587777.png" />
 
  <b>Hi there 👋</b>
  <p>🔭 I’m currently working on personal project called smothCSS </p>
