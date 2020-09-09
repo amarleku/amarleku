@@ -1,4 +1,4 @@
-<img src="https://images4.alphacoders.com/587/thumb-1920-587777.png" />
+<img src="https://i.ibb.co/9q1Zvqr/SmothCss.png" alt="SmothCss" />
 
  <b>Hi there 👋</b>
  <p>🔭 I’m currently working on personal project called smothCSS </p>
