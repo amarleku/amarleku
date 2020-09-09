@@ -1,4 +1,6 @@
+<div style="align:center">
 <img src="https://i.ibb.co/9q1Zvqr/SmothCss.png" alt="SmothCss" />
+ </div>
 
  <b>Hi there 👋</b>
  <p>🔭 I’m currently working on personal project called smothCSS </p>
