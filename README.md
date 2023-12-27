@@ -1,4 +1,4 @@
-<h1>Hi 👋</h1>
+<h1>Binar Owner</h1>
 
 <h4>My name is Astrit self-taught in Front-end, <br>Master of Javascript and Typescript.<br>
   <table>
